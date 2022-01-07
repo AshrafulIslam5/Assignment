@@ -16,9 +16,23 @@ body{
 .hed{
     font-size: 40px;
 }
+.sm{
+    border-left: 7px solid;
+    border-image: linear-gradient(red, pink);
+    border-image-slice: 1;
+    padding-left: 5%;
+}
 .contactme{
     text-decoration: none;
     background-image: linear-gradient(wheat, skyblue);
-    margin: 10px 5px;
     border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.mymis{
+    font-family: 'Amatic SC', cursive;
+    font-size: 70px;
+    text-align: center;
 }
