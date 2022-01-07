@@ -105,8 +105,5 @@ body{
     color: rgb(253, 47, 47);
 }
 body {
-    padding:0px;
-    margin:0px;
-    max-width:100%;
-    overflow-x: hidden;
+    margin:0;
 }
