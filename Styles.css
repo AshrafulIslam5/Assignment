@@ -47,6 +47,7 @@ body{
     width: 60%;
     margin-top: 5%;
     margin-bottom: 5%;
+    margin-left: 3%;
     padding-left: 10%;
     padding-right: 10%;
 }
@@ -106,4 +107,7 @@ body{
 }
 body {
     margin:0;
+}
+.boxall{
+    width: 100%;
 }
