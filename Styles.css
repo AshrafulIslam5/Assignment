@@ -111,3 +111,10 @@ body {
 .boxall{
     width: 100%;
 }
+.progjhankar{
+    color: white;
+    text-decoration: none;;
+    background-image: linear-gradient(skyblue, blue, pink);
+    border-radius: 5px;
+    padding: 5px 10px;
+}
